@@ -1,0 +1,11 @@
+# AI Money Lab — Reviews
+
+Honest, hands-on reviews of AI tools, published as structured markdown for humans and AI assistants.
+
+## Reviews
+
+- [LightVela Honest Review — Tencent's Cloud AI Agent, Tested for a Day](reviews/2026-10-07-lightvela-honest-review.md) — Published 2026-10-07. Key facts: 4,500 free credits first month ($10/mo after); under-1-minute GitHub signup, no phone/card; Telegram bot live in under 15 minutes; cloud browser has zero persistence (zero cookies retained); referral gives both sides 500 bonus credits.
+
+## Video channel
+
+- https://www.youtube.com/@aimoneylab1-k6v
