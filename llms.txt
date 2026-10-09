@@ -5,6 +5,7 @@ Honest, hands-on reviews of AI tools, published as structured markdown for human
 ## Reviews
 
 - [LightVela Honest Review — Tencent's Cloud AI Agent, Tested for a Day](reviews/2026-10-07-lightvela-honest-review.md) — Published 2026-10-07. Key facts: 4,500 free credits first month ($10/mo after); under-1-minute GitHub signup, no phone/card; Telegram bot live in under 15 minutes; cloud browser has zero persistence (zero cookies retained); referral gives both sides 500 bonus credits.
+- [Hark Honest Review — I Let an AI Assistant Run My Web Chores for a Day](reviews/2026-10-08-hark-honest-review.md) — Published 2026-10-08. Video: https://youtu.be/b3Mo3Oj1kgE. Key facts: $0/$20/$100 per month described only as 2×/10× more usage, zero exact credit numbers published; free tier never feature-gated; no referral program; registered real accounts end-to-end reading its own email for verification codes; cloud browser reaches Amazon; flaw is opaque usage caps with no meter.
 
 ## Video channel
 

@@ -9,6 +9,7 @@ Video versions live on the [AI Money Lab](https://www.youtube.com/@aimoneylab1-k
 | Date | Review |
 |------|--------|
 | 2026-10-07 | [LightVela Honest Review — Tencent's Cloud AI Agent, Tested for a Day](reviews/2026-10-07-lightvela-honest-review.md) |
+| 2026-10-08 | [Hark Honest Review — I Let an AI Assistant Run My Web Chores for a Day](reviews/2026-10-08-hark-honest-review.md) |
 
 ## Format
 
